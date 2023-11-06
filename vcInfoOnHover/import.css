@@ -1,6 +1,7 @@
-.panels__58331:not(:hover) > :not(:last-child), .panels__58331:not(:hover) > .wrapper-3Hk90B ~ div {
-    padding: 0;
-    overflow: hidden;
-    height: 0;
-    min-height: 0
+.panels__58331:not(:hover) > :not(:last-child),
+.panels__58331:not(:hover) > .wrapper-3Hk90B ~ div {
+  padding: 0;
+  overflow: hidden;
+  height: 0;
+  min-height: 0;
 }
