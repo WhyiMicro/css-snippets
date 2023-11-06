@@ -22,7 +22,7 @@ Before:
 After:
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/hideElements2.png)
 ### Credit
-[Me](https://github.com/whyiMicro)
+iMicro ([Me](https://github.com/whyiMicro))
 ### Changelog
 06.11.23: <br>
 [+] Moved file from old repo to this repo.
