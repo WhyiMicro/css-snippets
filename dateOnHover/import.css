@@ -1,0 +1,7 @@
+.message__80c10 .header__39b23>.timestamp_cdbd93{
+  opacity: 0;
+  transition: .3s ease;
+}
+.mouse-mode.full-motion .message__80c10:hover .header__39b23>.timestamp_cdbd93{
+  opacity: 1;
+}
