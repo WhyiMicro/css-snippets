@@ -3,7 +3,7 @@ Make the folders into an clean material icon when closed, and a different one wh
 ## Installation
 To install this snippet, simply copy the line bellow into your custom css file:
 ```css
-@import url(//whyimicro.github.io/css-snippets/bdSettingsOnTop/import.css);
+@import url(//whyimicro.github.io/css-snippets/cleanFolders/import.css);
 ```
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/cleanFolders.png)
