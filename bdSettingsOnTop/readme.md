@@ -9,3 +9,6 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/bdSettingsOnTop.png)
 ### Credit
 **therealcarrotdude** (discord)
+### Changelog
+06.11.23: <br>
+[+] Moved file from old repo to this repo.
