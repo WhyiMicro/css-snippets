@@ -1,0 +1,65 @@
+.scrollerInner__059a5
+  > .groupStart__56db5:not(.backgroundFlash_e5b9ad)
+  > .wrapper__09ecc {
+  padding: 0 0 0 16px;
+}
+.scrollerInner__059a5
+  > .groupStart__56db5:not(.backgroundFlash_e5b9ad)
+  > .wrapper__09ecc.compact__54ecc {
+  padding: 0 0 0 108px;
+}
+.scrollerInner__059a5 > .groupStart__56db5:not(.backgroundFlash_e5b9ad) {
+  margin: 0;
+}
+.scrollerInner__059a5
+  > .groupStart__56db5.expanded_be53d7:not(.backgroundFlash_e5b9ad) {
+  background-color: var(--info-danger-background);
+}
+.scrollerInner__059a5
+  > .groupStart__56db5:not(.backgroundFlash_e5b9ad)
+  .messageListItem__6a4fb
+  .groupStart__56db5,
+.scrollerInner__059a5
+  > .groupStart__56db5:not(.backgroundFlash_e5b9ad, .expanded_be53d7)
+  + .messageListItem__6a4fb
+  .groupStart__56db5 {
+  margin-top: 0;
+}
+.scrollerInner__059a5
+  > .groupStart__56db5:not(.backgroundFlash_e5b9ad)
+  .messageListItem__6a4fb {
+  opacity: 0.5;
+}
+.blockedSystemMessage_e58a4c .iconContainer_dfc268 {
+  display: none;
+}
+.blockedMessageText__57d64 {
+  position: relative;
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--interactive-muted);
+}
+.blockedMessageText__57d64:hover {
+  text-decoration: underline;
+}
+.blockedMessageText__57d64:hover,
+.groupStart__56db5.expanded_be53d7 .blockedMessageText__57d64 {
+  color: var(--info-danger-foreground);
+}
+.blockedAction__27053 {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  opacity: 0;
+}
+.blockedMessageText__57d64:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  height: 100%;
+  width: 14px;
+  pointer-events: none;
+  background-color: currentColor;
+  -webkit-mask: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 18 24" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M15 3.999V2H9V3.999H3V5.999H21V3.999H15Z M5 6.99902V18.999C5 20.101 5.897 20.999 7 20.999H17C18.103 20.999 19 20.101 19 18.999V6.99902H5ZM11 17H9V11H11V17ZM15 17H13V11H15V17Z" ></path></svg>')
+    center/contain no-repeat;
+}
