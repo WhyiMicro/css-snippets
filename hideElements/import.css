@@ -1,0 +1,49 @@
+/* Nitro store */
+[href="/store"] {
+  display: none;
+}
+
+/* Game library */
+[href="/library"] {
+  display: none;
+}
+
+/* Notification settings */
+[aria-label="Notification Settings"] {
+  display: none;
+}
+
+/* Help button */
+[aria-label="Help"] {
+  display: none;
+}
+
+/* Nitro badge on banner */
+.premiumIconWrapper__83620 {
+  display: none;
+}
+
+/* Gift button */
+button[aria-label="Send a gift"] {
+  display: none;
+}
+
+/* Sticker button */
+button[aria-label="Open sticker picker"] {
+  display: none;
+}
+
+/* Scrollbar in message section */
+.scroller__1f96e::-webkit-scrollbar {
+  display: none;
+}
+
+/* Scrollbar on channel list */
+.scroller_f0f183::-webkit-scrollbar {
+  display: none;
+}
+
+/* margin fix */
+.scroller_f0f183 {
+  margin-right: 8px;
+}
