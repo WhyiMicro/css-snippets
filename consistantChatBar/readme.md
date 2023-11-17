@@ -10,6 +10,11 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ### Credit
 [DaBluLite](https://github.com/DaBluLite) (Original creator) <br>
 **huderon** (Discord) - Fixed some issues with it <br>
-### Changelog
-06.11.23: <br>
-[+] Moved file from old repo to this repo.
+<details>
+<summary>Changelog</summary>
+
+## 1.0.0
+
+- Moved from old repo to new one
+
+</details>
