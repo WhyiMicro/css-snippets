@@ -10,6 +10,11 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ### Credit
 **noteless.** (discord) - Original creator <br>
 iMicro ([Me](https://github.com/WhyiMicro)) - Fixed for new Discord update <br>
-### Changelog
-06.11.23: <br>
-[+] Moved file from old repo to this repo.
+<details>
+<summary>Changelog</summary>
+
+## 1.0.0
+
+- Moved from old repo to new one
+
+</details>
