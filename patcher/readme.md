@@ -14,6 +14,11 @@ After:
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png)
 ### Credit
 iMicro ([Me](https://github.com/WhyiMicro))
-### Changelog
-06.11.23: <br>
-[+] Moved file from old repo to this repo.
+<details>
+<summary>Changelog</summary>
+
+## 1.0.0
+
+- Moved from old repo to new one
+
+</details>
