@@ -18,3 +18,16 @@
 .iconWrapper_af9215:has(path[d^="M21.526 8.149C21.231 7.966"]) {
     display: none;
 }
+
+/* Fix mute button being white by default */
+.controlButton_ab2899:has([d$="16.1 12 16.1Z"])
+  :where(.contextMenuNub__7c02f, button) {
+  background-color: var(--primary-630);
+}
+.controlButton_ab2899:has(path[d$="16.1 12 16.1Z"]) path {
+  color: var(--white-500);
+}
+.controlButton_ab2899:has([d$="16.1 12 16.1Z"]):hover
+  :where(.contextMenuNub__7c02f, button) {
+  background-color: var(--primary-700);
+}
