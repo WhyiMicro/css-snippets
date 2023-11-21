@@ -22,7 +22,7 @@ Before:
 After:
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/hideElements2.png)
 ### Credit
-iMicro ([Me](https://github.com/whyiMicro))
+@imicro
 <details>
 <summary>Changelog</summary>
 
