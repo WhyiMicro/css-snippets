@@ -1,8 +1,12 @@
 # Other imports
 A list of imports I use form other peoples repos. They make some great stuff, so go check their stuff out!
 ## Installation
-Find the snippet(s) you want from the previews and copy the line bellow the image into your custom css file.
-
+Find the snippet(s) you want from the previews and copy the line bellow the image into your custom css file. <br>
+If you really like every single one, and would like a simple line to install them **all**, you can copy the line bellow into your custom css file:
+```css
+@import url(//raw.githubusercontent.com/WhyiMicro/css-snippets/main/_otherImports/import.css);
+```
+(Doesn't work! I'm gonna fix it...  eventually)
 ## Previews
 **BD Addon Mini List** <br>
 Makes the BD addon list more compact <br>
@@ -16,7 +20,7 @@ Makes the BD addon list more compact <br>
 Styles non-nitro profiles to their banner color <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/profileBannerSkins.png)
 ```css
-@import url(https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css);
+@import url(//maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css);
 ```
 <br>
 
@@ -24,7 +28,7 @@ Styles non-nitro profiles to their banner color <br>
 A redesigned inbox that makes more sense <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/bearableInbox.png)
 ```css
-@import url(https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css);
+@import url(//maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css);
 ```
 <br>
 
