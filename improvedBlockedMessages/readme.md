@@ -8,8 +8,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/improvedBlockedMessages.png)
 ### Credit
-[Disease](https://github.com/maenDisease) - Original creator <br>
-iMicro ([Me](https://github.com/WhyiMicro)) - Fixed for new Discord update <br>
+@gonorrhea2
 <details>
 <summary>Changelog</summary>
 
