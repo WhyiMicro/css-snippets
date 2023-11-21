@@ -8,9 +8,8 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/cleanFolders.png)
 ### Credit
-**CapnKitten** (discord) - Original creator <br>
-[Gibbu](https://github.com/Gibbu) - Made a edited version <br>
-iMicro ([Me](https://github.com/WhyiMicro)) - Fixed for new Discord update <br>
+@CapnKitten <br>
+@gibbu
 <details>
 <summary>Changelog</summary>
 
