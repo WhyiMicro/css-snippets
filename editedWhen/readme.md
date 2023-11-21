@@ -8,7 +8,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/editedWhen.png)
 ### Credit
-**kritishd8** (discord)
+@kritishd8
 <details>
 <summary>Changelog</summary>
 
