@@ -8,14 +8,19 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher1.png)
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher2.png)
-Before:
+Before: <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(0).png)
-After:
+<br> After: <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png)
 ### Credit
-@imicro
+@imicro <br>
+@carrotpretender
 <details>
 <summary>Changelog</summary>
+
+## 1.1.0
+
+- Added a fix to normalize the discord mute button (while in call) to **not** be white by default
 
 ## 1.0.0
 
