@@ -1,0 +1,27 @@
+.role__631a3 {
+    transform: translate(0);
+    overflow: hidden;
+    border: 0;
+
+    --transparency: .05;
+    border-radius: 5px;
+}
+.role__631a3 .roleRemoveIcon__7f63d {
+    margin: 0;
+    left: unset;
+    transform: translate(50%,-50%);
+}
+.role__631a3 .roleRemoveButton__737f2 {
+    position: static;
+}
+.role__631a3 .roleCircle_bae511:after {
+    content: '';
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: inherit;
+    opacity: var(--transparency);
+}
