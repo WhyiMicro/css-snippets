@@ -8,8 +8,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/dateOnHover.gif)
 ### Credit
-**noteless.** (discord) - Original creator <br>
-iMicro ([Me](https://github.com/WhyiMicro)) - Fixed for new Discord update <br>
+@noteless.
 <details>
 <summary>Changelog</summary>
 
