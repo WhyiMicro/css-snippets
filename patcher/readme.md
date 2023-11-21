@@ -11,7 +11,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 Before: <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(0).png)
 <br> After: <br>
-![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png)
+![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png) <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/muteButtonFix.png)
 ### Credit
 @imicro <br>
