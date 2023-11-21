@@ -8,7 +8,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/vcSeparator.png)
 ### Credit
-I couldn't find the original creator
+Couldn't find the original creator
 <details>
 <summary>Changelog</summary>
 
