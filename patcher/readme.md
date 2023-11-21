@@ -13,7 +13,7 @@ Before:
 After:
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png)
 ### Credit
-iMicro ([Me](https://github.com/WhyiMicro))
+@imicro
 <details>
 <summary>Changelog</summary>
 
