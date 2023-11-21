@@ -1,0 +1,61 @@
+.content_d67847 {
+  background: #2b2d31;
+  border-radius: 25px;
+  padding: 5px 10px 5px 10px;
+  color: white;
+  font-weight: 500;
+  justify-content: center;
+}
+.divider__8cf56:not(.isUnread__6f880) {
+  border-color: transparent;
+}
+.divider__8cf56 {
+  border-color: transparent;
+}
+.unreadPill__715fc {
+  border-radius: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.unreadPillCap__96b8d {
+  display: none;
+}
+.divider_b9338f:has(.unreadPill__715fc) > .content_d67847 {
+  background: #2b2d31;
+  border-radius: 25px;
+  padding: 5px 10px 5px 10px;
+  color: white;
+  font-weight: 500;
+  justify-content: center;
+}
+.divider_b9338f {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  gap: 3px;
+  margin: 0;
+  border-top: unset;
+}
+.divider_b9338f .content_d67847 {
+  background: #2b2d31;
+  color: white;
+}
+.divider_b9338f.isUnread__6f880 .unreadPill__715fc {
+  position: unset;
+  background: transparent;
+  font-size: 0px;
+  text-transform: unset;
+  color: var(--divider-color);
+  background: var(--background-secondary);
+  padding: 12px 0;
+  width: 100%;
+}
+.divider_b9338f.isUnread__6f880 .unreadPill__715fc::after {
+  content: "Unread messages";
+  font-size: 12px;
+  color: #54a9eb;
+  font-weight: 300;
+}
+.scroller__1f96e::-webkit-scrollbar {
+  display: none;
+}
