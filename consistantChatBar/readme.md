@@ -8,8 +8,8 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ## Preview
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/consistantChatBar.png)
 ### Credit
-[DaBluLite](https://github.com/DaBluLite) (Original creator) <br>
-**huderon** (Discord) - Fixed some issues with it <br>
+@dablulite <br>
+@huderon
 <details>
 <summary>Changelog</summary>
 
