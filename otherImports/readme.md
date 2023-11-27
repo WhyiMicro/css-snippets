@@ -4,9 +4,8 @@ A list of imports I use form other peoples repos. They make some great stuff, so
 Find the snippet(s) you want from the previews and copy the line bellow the image into your custom css file. <br>
 If you really like every single one, and would like a simple line to install them **all**, you can copy the line bellow into your custom css file:
 ```css
-@import url(//raw.githubusercontent.com/WhyiMicro/css-snippets/otherImports/import.css);
+@import url(//whyimicro.github.io/css-snippets/otherImports/import.css);
 ```
-(Doesn't work! I'm gonna fix it...  eventually)
 ## Previews
 **BD Addon Mini List** <br>
 Makes the BD addon list more compact <br>
@@ -60,6 +59,11 @@ Resolvers the issue with out of place light mode modals and menus on dark mode <
 @dablulite
 <details>
 <summary>Changelog</summary>
+  
+## 1.1.1
+
+- Updated the link to work
+- Removed "not working" text
   
 ## 1.1.0
 
