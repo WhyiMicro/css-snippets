@@ -4,7 +4,7 @@ A list of imports I use form other peoples repos. They make some great stuff, so
 Find the snippet(s) you want from the previews and copy the line bellow the image into your custom css file. <br>
 If you really like every single one, and would like a simple line to install them **all**, you can copy the line bellow into your custom css file:
 ```css
-@import url(//raw.githubusercontent.com/WhyiMicro/css-snippets/main/_otherImports/import.css);
+@import url(//raw.githubusercontent.com/WhyiMicro/css-snippets/otherImports/import.css);
 ```
 (Doesn't work! I'm gonna fix it...  eventually)
 ## Previews
@@ -60,6 +60,10 @@ Resolvers the issue with out of place light mode modals and menus on dark mode <
 @dablulite
 <details>
 <summary>Changelog</summary>
+  
+## 1.1.0
+
+- Mayhaps fixed the "import all" script?
 
 ## 1.0.0
 
