@@ -15,9 +15,14 @@ Before: <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/muteButtonFix.png)
 ### Credit
 @imicro <br>
-@carrotpretender
+@carrotpretender <br>
+@shadowdevilsavenged
 <details>
 <summary>Changelog</summary>
+  
+## 1.1.1
+
+- Updated the fix to normalize the discord mute button. (Thanks to @shadowdevilsavenged for the snippet <3)
 
 ## 1.1.0
 
