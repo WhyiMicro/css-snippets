@@ -20,14 +20,36 @@
 }
 
 /* Fix mute button being white by default */
-.controlButton_ab2899:has([d$="16.1 12 16.1Z"])
-  :where(.contextMenuNub__7c02f, button) {
-  background-color: var(--primary-630);
+.colorable_c84c4c.primaryDark__6b700[aria-label="Unmute"],
+.colorable_c84c4c.primaryDark__6b700[aria-label="Unmute"] .centerIcon__6075a,
+.controlButton_ab2899:has(
+    .colorable_c84c4c.primaryDark__6b700[aria-label="Unmute"]
+  )
+  .contextMenuNub__7c02f {
+  color: var(--primary-860);
 }
-.controlButton_ab2899:has(path[d$="16.1 12 16.1Z"]) path {
-  color: var(--white-500);
+
+.controlButton_ab2899:has(
+    .colorable_c84c4c.primaryDark__6b700[aria-label="Unmute"]
+  )
+  .contextMenuNub__7c02f,
+.controlButton_ab2899:has(
+    .colorable_c84c4c.primaryDark__6b700[aria-label="Unmute"]
+  )
+  .colorable_c84c4c.primaryDark__6b700[aria-label="Unmute"] {
+  background: white;
 }
-.controlButton_ab2899:has([d$="16.1 12 16.1Z"]):hover
-  :where(.contextMenuNub__7c02f, button) {
-  background-color: var(--primary-700);
+
+.colorable_c84c4c.white__10e89[aria-label="Mute"],
+.colorable_c84c4c.white__10e89[aria-label="Mute"] .centerIcon__6075a,
+.controlButton_ab2899:has(.colorable_c84c4c.white__10e89[aria-label="Mute"])
+  .contextMenuNub__7c02f {
+  color: white;
+}
+
+.controlButton_ab2899:has(.colorable_c84c4c.white__10e89[aria-label="Mute"])
+  .contextMenuNub__7c02f,
+.controlButton_ab2899:has(.colorable_c84c4c.white__10e89[aria-label="Mute"])
+  .colorable_c84c4c.white__10e89[aria-label="Mute"] {
+  background: var(--primary-630);
 }
