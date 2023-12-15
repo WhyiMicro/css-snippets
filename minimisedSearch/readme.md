@@ -12,6 +12,10 @@ Couldn't find the original creator
 <details>
 <summary>Changelog</summary>
 
+## 1.0.1
+
+- Changed px size on the search bar length
+  
 ## 1.0.0
 
 - Moved from old repo to new one
