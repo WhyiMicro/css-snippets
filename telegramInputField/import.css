@@ -1,0 +1,10 @@
+.textAreaSlate_e0e383 > div:not([class]) > :nth-last-child(2) {
+  font-size: 0;
+}
+.textAreaSlate_e0e383 > div:not([class]) > :nth-last-child(2):before {
+  content: "Write a message...";
+  font-size: 0.9rem;
+}
+.textAreaSlate_e0e383 {
+  overflow: hidden;
+}
