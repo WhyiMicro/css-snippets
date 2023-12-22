@@ -3,8 +3,8 @@
   font-size: 0;
 }
 .message__80c10:not(:hover) .edited_b20dd9::before {
-  content: "(✎)";
-  font-size: 0.625rem;
+  content: " (✎)";
+  font-size: 0.75rem;
   font-weight: 400;
   line-height: 1;
 }
