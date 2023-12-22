@@ -10,9 +10,16 @@ To install this snippet, simply copy the line bellow into your custom css file:
 ### Credit
 @kritishd8 <br>
 @carrotpretender <br>
-@riddim_glitch
+@riddim_glitch <br>
+@iMicro
 <details>
 <summary>Changelog</summary>
+
+## 2.1.0
+
+- Added a space before the left bracket for consistancy
+- Fixed the font size to be .75 rem to match the edited when text
+
 
 ## 2.0.0
 
