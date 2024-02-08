@@ -9,7 +9,7 @@ If you really like every single one, and would like a simple line to install the
 ## Previews
 **BD Addon Mini List** <br>
 Makes the BD addon list more compact <br>
-![image](https://camo.githubusercontent.com/6148b7b75f52c24a89eecd7cd8103255b5926d20fe76d6a30cdcc5497a56969f/68747470733a2f2f692e696d6775722e636f6d2f377177575968422e676966)
+![image](https://camo.githubusercontent.com/38577d71ca34b772167cd910e44e03f43738460682a7f08f21d1db1dad061c5d/68747470733a2f2f692e696d6775722e636f6d2f377177575968422e676966)
 ```css
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
 ```
