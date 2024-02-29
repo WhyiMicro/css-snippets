@@ -13,13 +13,19 @@ Before: <br>
 <br> After: <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png) <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/muteButtonFix.png)
+![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/mirrorFix.png)
 ### Credit
 @imicro <br>
 @carrotpretender <br>
-@shadowdevilsavenged
+@shadowdevilsavenged <br>
+@smolalli
 <details>
 <summary>Changelog</summary>
-  
+
+## 1.1.2
+
+- Added a patch to fix your own camera being mirrored and thus inconsistant to what others see
+
 ## 1.1.1
 
 - Updated the fix to normalize the discord mute button. (Thanks to @shadowdevilsavenged for the snippet <3)
