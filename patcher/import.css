@@ -53,3 +53,8 @@
   .colorable_c84c4c.white__10e89[aria-label="Mute"] {
   background: var(--primary-630);
 }
+
+/* Remove flipping of camera on preview of self, to match what others see */
+.mirror_e336b2 {
+  transform: unset;
+}
