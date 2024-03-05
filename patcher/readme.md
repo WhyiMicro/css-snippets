@@ -14,13 +14,20 @@ Before: <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png) <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/muteButtonFix.png)
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/mirrorFix.png)
+![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/Fix%20Mosaic%20Zoom%20Before.png)
+![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/Fix%20Mosaic%20Zoom%20After.png)
 ### Credit
 @imicro <br>
 @carrotpretender <br>
 @shadowdevilsavenged <br>
-@smolalli
+@smolalli <br>
+@domi.btnr
 <details>
 <summary>Changelog</summary>
+
+## 1.2
+
+- Added a patch to fix your own camera being mirrored and thus inconsistant to what others see
 
 ## 1.1.2
 
