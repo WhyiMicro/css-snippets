@@ -58,3 +58,6 @@
 .mirror_e336b2 {
   transform: unset;
 }
+
+/* Fix Mosaic Zoom */
+[class^="imageWrapper_"] img[class^="lazyImg"] { object-fit: contain !important; }
