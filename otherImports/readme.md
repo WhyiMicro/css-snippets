@@ -51,14 +51,19 @@ Redesign of BetterDiscord's floating editor, with unlocked max width and height 
 Resolvers the issue with out of place light mode modals and menus on dark mode <br>
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/NoLightInDark.png)
 ```css
-@import url(//dablulite.github.io/css-snippets/NoLightInDark/import.css);
+@import url(//dablulite.github.io/css-snippets/BetterModals/import.css);
 ```
 
 ### Credit
-@gonorrhea2
+@gonorrhea2 <br>
 @dablulite
 <details>
 <summary>Changelog</summary>
+
+  ## 1.2
+
+- Updated link for no light mode
+- Temp fix for disease's css as those aren't updated yet
   
 ## 1.1.1
 
