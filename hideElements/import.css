@@ -19,7 +19,7 @@
 }
 
 /* Nitro badge on banner */
-.premiumIconWrapper__83620 {
+.premiumIconWrapper__7793e {
   display: none;
 }
 
@@ -34,16 +34,16 @@ button[aria-label="Open sticker picker"] {
 }
 
 /* Scrollbar in message section */
-.scroller__1f96e::-webkit-scrollbar {
+.scroller_e412fe::-webkit-scrollbar {
   display: none;
 }
 
 /* Scrollbar on channel list */
-.scroller_f0f183::-webkit-scrollbar {
+.scroller__1f498::-webkit-scrollbar {
   display: none;
 }
 
 /* margin fix */
-.scroller_f0f183 {
+.scroller__1f498 {
   margin-right: 8px;
 }
