@@ -1,10 +1,10 @@
-.message__80c10 .header__39b23 > .timestamp_cdbd93 {
+.message_ccca67 .header__6a14d > .timestamp_c79dd2 {
   opacity: 0;
   transition: 0.3s ease;
 }
 .mouse-mode.full-motion
-  .message__80c10:hover
-  .header__39b23
-  > .timestamp_cdbd93 {
+  .message_ccca67:hover
+  .header__6a14d
+  > .timestamp_c79dd2 {
   opacity: 1;
 }
