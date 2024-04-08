@@ -8,3 +8,8 @@ This import is the snippets that I use myself.
 ```css
 @import url(//whyimicro.github.io/css-snippets/import.css);
 ```
+## My settings (Compact mode)
+This import is almost the same as the one above, but without 2 snippets that ruin the compact experience.
+```css
+@import url(//whyimicro.github.io/css-snippets/compactImport.css);
+```
