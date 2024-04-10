@@ -20,37 +20,25 @@
 }
 
 /* Fix mute button being white by default */
-.colorable__4f530.primaryDark_ec74a7[aria-label="Unmute"],
-.colorable__4f530.primaryDark_ec74a7[aria-label="Unmute"] .centerIcon_e3df23,
-.controlButton__863c7:has(
-    .colorable__4f530.primaryDark_ec74a7[aria-label="Unmute"]
-  )
-  .contextMenuNub_bea150 {
+.colorable__4f530.primaryDark_ec74a7[aria-label="Turn On Microphone"], 
+.colorable__4f530.primaryDark_ec74a7[aria-label="Turn On Microphone"] .centerIcon_e3df23,
+.controlButton__863c7:has(.colorable__4f530.primaryDark_ec74a7[aria-label="Turn On Microphone"]) .contextMenuNub_bea150 {
   color: var(--primary-860);
 }
 
-.controlButton__863c7:has(
-    .colorable__4f530.primaryDark_ec74a7[aria-label="Unmute"]
-  )
-  .contextMenuNub_bea150,
-.controlButton__863c7:has(
-    .colorable__4f530.primaryDark_ec74a7[aria-label="Unmute"]
-  )
-  .colorable__4f530.primaryDark_ec74a7[aria-label="Unmute"] {
+.controlButton__863c7:has(.colorable__4f530.primaryDark_ec74a7[aria-label="Turn On Microphone"]) .contextMenuNub_bea150,
+.controlButton__863c7:has(.colorable__4f530.primaryDark_ec74a7[aria-label="Turn On Microphone"]) .colorable__4f530.primaryDark_ec74a7[aria-label="Turn On Microphone"] {
   background: white;
 }
 
-.colorable__4f530.white_ce1c7b[aria-label="Mute"],
-.colorable__4f530.white_ce1c7b[aria-label="Mute"] .centerIcon_e3df23,
-.controlButton__863c7:has(.colorable__4f530.white_ce1c7b[aria-label="Mute"])
-  .contextMenuNub_bea150 {
-  color: white;
+.colorable__4f530.white_ce1c7b[aria-label="Turn Off Microphone"], 
+.colorable__4f530.white_ce1c7b[aria-label="Turn Off Microphone"] .centerIcon_e3df23,
+.controlButton__863c7:has(.colorable__4f530.white_ce1c7b[aria-label="Turn Off Microphone"]) .contextMenuNub_bea150 {
+  color:  white;
 }
 
-.controlButton__863c7:has(.colorable__4f530.white_ce1c7b[aria-label="Mute"])
-  .contextMenuNub_bea150,
-.controlButton__863c7:has(.colorable__4f530.white_ce1c7b[aria-label="Mute"])
-  .colorable__4f530.white_ce1c7b[aria-label="Mute"] {
+.controlButton__863c7:has(.colorable__4f530.white_ce1c7b[aria-label="Turn Off Microphone"]) .contextMenuNub_bea150,
+.controlButton__863c7:has(.colorable__4f530.white_ce1c7b[aria-label="Turn Off Microphone"]) .colorable__4f530.white_ce1c7b[aria-label="Turn Off Microphone"] {
   background: var(--primary-630);
 }
 
