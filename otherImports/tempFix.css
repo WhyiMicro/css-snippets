@@ -239,12 +239,12 @@
 }
 
 /* Profile Banner Skins */
-.theme-dark .profileColors_ac6ab4,
+.theme-dark .userProfileInner__8ff35,
 .theme-dark .accountProfileCard__744d8 {
   --profile-body-background-color: rgba(0, 0, 0, 0.45);
 }
 
-.theme-light .profileColors_ac6ab4,
+.theme-light .userProfileInner__8ff35,
 .theme-light .accountProfileCard__744d8 {
   --profile-body-background-color: rgba(255, 255, 255, 0.65);
 }
@@ -261,24 +261,24 @@
   height: 100vh;
 }
 
-.profileColors_ac6ab4:not(:has(svg div[style*=image])) .avatarWrapper__0cd44 {
+.userProfileInner__8ff35:not(:has(svg div[style*=image])) .avatarWrapper__0cd44 {
   background: var(--profile-body-background-color);
   box-shadow: var(--elevation-medium);
 }
-.profileColors_ac6ab4:not(:has(svg div[style*=image])) .avatarHoverTarget__9b4a9,
-.profileColors_ac6ab4:not(:has(svg div[style*=image])) .avatarHint__15059 {
+.userProfileInner__8ff35:not(:has(svg div[style*=image])) .avatarHoverTarget__9b4a9,
+.userProfileInner__8ff35:not(:has(svg div[style*=image])) .avatarHint__15059 {
   padding: 6px;
 }
-.profileColors_ac6ab4:not(:has(svg div[style*=image])) .avatar-3QF_VA {
+.userProfileInner__8ff35:not(:has(svg div[style*=image])) .avatar__445f3 {
   background: var(--profile-body-background-color);
   box-shadow: var(--elevation-medium);
   padding: 6px;
 }
-.profileColors_ac6ab4 .profileBadges__1f2ab:not(.containerWithContent_a67357) {
+.userProfileInner__8ff35 .profileBadges__1f2ab:not(.containerWithContent_a67357) {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-.profileColors_ac6ab4 .messageInputContainer_a93946 {
+.userProfileInner__8ff35 .messageInputContainer_a93946 {
   border: none;
 }
 
@@ -287,14 +287,14 @@
   z-index: 1;
 }
 
-.overlayBackground__2666e {
+.overlayBackground__345c9 {
   margin: 28px 8px 8px;
   box-shadow: var(--elevation-medium);
   z-index: 1;
 }
 
-.profileColors_ac6ab4 .wrapper__3ed10 circle,
-.profileColors_ac6ab4 .wrapper__3ed10 rect[style] {
+.userProfileInner__8ff35 .wrapper__3ed10 circle,
+.userProfileInner__8ff35 .wrapper__3ed10 rect[style] {
   fill: none;
 }
 
