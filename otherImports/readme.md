@@ -56,7 +56,8 @@ Resolvers the issue with out of place light mode modals and menus on dark mode <
 
 ### Credit
 @gonorrhea2 <br>
-@dablulite
+@dablulite <br>
+@gyrogyro.py
 <details>
 <summary>Changelog</summary>
 
