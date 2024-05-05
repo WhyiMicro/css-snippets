@@ -1,3 +1,8 @@
+/* remove weird fade box in message bar */
+.theme-dark .form_d8a4a1:before, .theme-dark .form_d8a4a1:after {
+  display: none;
+}
+
 /* Fix gap between gif text and next msg */
 .altText_a57338 {
   margin: .25rem 0 -0.15rem;
