@@ -15,8 +15,8 @@
 }
 
 /* Remove facetime button */
-.iconWrapper_de6cd1:has(path[d^="M21.526 8.149C21.231 7.966"]) {
-    display: none;
+.iconWrapper_de6cd1:has(path[d^="M4 4a3 3 0 0 0-3"]){
+  display: none;
 }
 
 /* Fix mute button being white by default */
