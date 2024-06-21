@@ -1,58 +1,58 @@
-.scrollerInner__37fee
-  > .groupStart__7b93c:not(.backgroundFlash__28f42)
-  > .wrapper_a62503 {
+.scrollerInner_e2e187
+  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
+  > .wrapper_ec86aa {
   padding: 0 0 0 16px;
 }
-.scrollerInner__37fee
-  > .groupStart__7b93c:not(.backgroundFlash__28f42)
-  > .wrapper_a62503.compact_eda3c8 {
+.scrollerInner_e2e187
+  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
+  > .wrapper_ec86aa.compact_ec86aa {
   padding: 0 0 0 108px;
 }
-.scrollerInner__37fee > .groupStart__7b93c:not(.backgroundFlash__28f42) {
+.scrollerInner_e2e187 > .groupStart_d5deea:not(.backgroundFlash_d5deea) {
   margin: 0;
 }
-.scrollerInner__37fee
-  > .groupStart__7b93c.expanded_d275c4:not(.backgroundFlash__28f42) {
+.scrollerInner_e2e187
+  > .groupStart_d5deea.expanded_c09d0f:not(.backgroundFlash_d5deea) {
   background-color: var(--info-danger-background);
 }
-.scrollerInner__37fee
-  > .groupStart__7b93c:not(.backgroundFlash__28f42)
-  .messageListItem__050f9
-  .groupStart__7b93c,
-.scrollerInner__37fee
-  > .groupStart__7b93c:not(.backgroundFlash__28f42, .expanded_d275c4)
-  + .messageListItem__050f9
-  .groupStart__7b93c {
+.scrollerInner_e2e187
+  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
+  .messageListItem_d5deea
+  .groupStart_d5deea,
+.scrollerInner_e2e187
+  > .groupStart_d5deea:not(.backgroundFlash_d5deea, .expanded_c09d0f)
+  + .messageListItem_d5deea
+  .groupStart_d5deea {
   margin-top: 0;
 }
-.scrollerInner__37fee
-  > .groupStart__7b93c:not(.backgroundFlash__28f42)
-  .messageListItem__050f9 {
+.scrollerInner_e2e187
+  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
+  .messageListItem_d5deea {
   opacity: 0.5;
 }
-.blockedSystemMessage_d1b25e .iconContainer_d0200f {
+.blockedSystemMessage_c09d0f .iconContainer_e62b38 {
   display: none;
 }
-.blockedMessageText_e808c7 {
+.blockedMessageText_c09d0f {
   position: relative;
   font-size: 12px;
   line-height: 16px;
   color: var(--interactive-muted);
 }
-.blockedMessageText_e808c7:hover {
+.blockedMessageText_c09d0f:hover {
   text-decoration: underline;
 }
-.blockedMessageText_e808c7:hover,
-.groupStart__7b93c.expanded_d275c4 .blockedMessageText_e808c7 {
+.blockedMessageText_c09d0f:hover,
+.groupStart_d5deea.expanded_c09d0f .blockedMessageText_c09d0f {
   color: var(--info-danger-foreground);
 }
-.blockedAction_bf310e {
+.blockedAction_c09d0f {
   position: absolute;
   inset: 0;
   width: 100%;
   opacity: 0;
 }
-.blockedMessageText_e808c7:after {
+.blockedMessageText_c09d0f:after {
   content: "";
   position: absolute;
   right: 0;
