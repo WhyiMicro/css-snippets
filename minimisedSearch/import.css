@@ -1,23 +1,23 @@
-.search_ac353c:not(.open_d3ab4e) .searchBar__5a20a {
+.search_a46bef:not(.open_a46bef) .searchBar_a46bef {
   width: 27px;
   background-color: transparent;
 }
-.search_ac353c:not(.open_d3ab4e):hover .searchBar__5a20a {
+.search_a46bef:not(.open_a46bef):hover .searchBar_a46bef {
   width: 184px;
   background-color: var(--background-tertiary);
 }
-.search_ac353c:not(.open_d3ab4e) .iconContainer__9f124 {
+.search_a46bef:not(.open_a46bef) .iconContainer_effbe2 {
   transform: scale(1.3);
 }
-.search_ac353c:not(.open_d3ab4e):hover .iconContainer__9f124 {
+.search_a46bef:not(.open_a46bef):hover .iconContainer_effbe2 {
   transform: scale(1);
 }
-.search_ac353c:not(.open_d3ab4e) .icon__5c8c7 {
+.search_a46bef:not(.open_a46bef) .icon_effbe2 {
   color: var(--text-normal);
 }
-.search_ac353c:not(.open_d3ab4e):hover .icon__5c8c7 {
+.search_a46bef:not(.open_a46bef):hover .icon_effbe2 {
   color: var(--text-muted);
 }
-.search_ac353c:not(.open_d3ab4e) .icon__5c8c7 {
+.search_a46bef:not(.open_a46bef) .icon_effbe2 {
   color: #b5bac1;
 }
