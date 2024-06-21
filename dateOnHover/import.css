@@ -1,10 +1,10 @@
-.message_ccca67 .header__6a14d > .timestamp_c79dd2 {
+.message_d5deea .header_ec86aa > .timestamp_ec86aa {
   opacity: 0;
   transition: 0.3s ease;
 }
 .mouse-mode.full-motion
-  .message_ccca67:hover
-  .header__6a14d
-  > .timestamp_c79dd2 {
+  .message_d5deea:hover
+  .header_ec86aa
+  > .timestamp_ec86aa {
   opacity: 1;
 }
