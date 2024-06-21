@@ -1,4 +1,4 @@
-.role_d81130 {
+.role_f9575e {
     transform: translate(0);
     overflow: hidden;
     border: 0;
@@ -6,15 +6,15 @@
     --transparency: .05;
     border-radius: 5px;
 }
-.role_d81130 .roleRemoveIcon_c3913a {
+.role_f9575e .roleRemoveIcon_e4010c {
     margin: 0;
     left: unset;
     transform: translate(50%,-50%);
 }
-.role_d81130 .roleRemoveButton__20c70 {
+.role_f9575e .roleRemoveButton_f9575e {
     position: static;
 }
-.role_d81130 .roleCircle__61ad8:after {
+.role_f9575e .roleCircle_a26d7b:after {
     content: '';
     top: 0;
     left: 0;
