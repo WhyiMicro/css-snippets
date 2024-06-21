@@ -1,7 +1,7 @@
-.closedFolderIconWrapper__722d5 {
+.closedFolderIconWrapper_bc7085 {
   display: none;
 }
-.folderIconWrapper__11165:not([style=""])::before {
+.folderIconWrapper_bc7085:not([style=""])::before {
   position: absolute;
   content: "";
   width: 18px;
