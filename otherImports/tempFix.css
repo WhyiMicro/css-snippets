@@ -238,7 +238,7 @@
     padding-top: 0;
 }
 
-/* Profile Banner Skins */
+/* Profile Banner Skins (broke with new update, may come back and fix it..)
 .theme-dark .userProfileInner_c69a7b,
 .theme-dark .accountProfileCard_b69b77 {
   --profile-body-background-color: rgba(0, 0, 0, 0.45);
@@ -355,7 +355,7 @@
 .accountProfileCard_b69b77 .fieldList_b69b77 {
   background: none;
 }
-
+*/
 /* Bearable Inbox */
 .recentMentionsPopout_ddb5b4 .container_ddb5b4,
 .recentMentionsPopout_ddb5b4 .channel_d09ffd {
