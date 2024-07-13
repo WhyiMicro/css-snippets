@@ -1,17 +1,17 @@
-.message_d5deea .edited_ec86aa {
+.message_d5deea .edited_f9f2ca {
   color: var(--text-muted);
   font-size: 0;
 }
-.message_d5deea:not(:hover) .edited_ec86aa::before {
+.message_d5deea:not(:hover) .edited_f9f2ca::before {
   content: " (✎)";
   font-size: 0.75rem;
   font-weight: 400;
   line-height: 1;
 }
 .message_d5deea:hover
-  .timestamp_ec86aa:not(
-    .timestampInline_ec86aa,
-    .timestampVisibleOnHover_ec86aa
+  .timestamp_f9f2ca:not(
+    .timestampInline_f9f2ca,
+    .timestampVisibleOnHover_f9f2ca
   )
   time::before {
   content: " (" attr(aria-label) ")";
