@@ -1,4 +1,4 @@
-.content_fc5f50 {
+.content_c2654d {
   background: #2b2d31;
   border-radius: 25px;
   padding: 5px 10px 5px 10px;
@@ -6,21 +6,21 @@
   font-weight: 500;
   justify-content: center;
 }
-.divider_d5deea:not(.isUnread_fc5f50) {
+.divider_d5deea:not(.isUnread_c2654d) {
   border-color: transparent;
 }
 .divider_d5deea {
   border-color: transparent;
 }
-.unreadPill_fc5f50 {
+.unreadPill_c2654d {
   border-radius: 0px;
   padding-left: 10px;
   padding-right: 10px;
 }
-.unreadPillCap_fc5f50 {
+.unreadPillCap_c2654d {
   display: none;
 }
-.divider_fc5f50:has(.unreadPill_fc5f50) > .content_fc5f50 {
+.divider_c2654d:has(.unreadPill_c2654d) > .content_c2654d {
   background: #2b2d31;
   border-radius: 25px;
   padding: 5px 10px 5px 10px;
@@ -28,7 +28,7 @@
   font-weight: 500;
   justify-content: center;
 }
-.divider_fc5f50 {
+.divider_c2654d {
   display: flex;
   flex-direction: column;
   height: auto;
@@ -36,11 +36,11 @@
   margin: 0;
   border-top: unset;
 }
-.divider_fc5f50 .content_fc5f50 {
+.divider_c2654d .content_c2654d {
   background: #2b2d31;
   color: white;
 }
-.divider_fc5f50.isUnread_fc5f50 .unreadPill_fc5f50 {
+.divider_c2654d.isUnread_c2654d .unreadPill_c2654d {
   position: unset;
   background: transparent;
   font-size: 0px;
@@ -50,7 +50,7 @@
   padding: 12px 0;
   width: 100%;
 }
-.divider_fc5f50.isUnread_fc5f50 .unreadPill_fc5f50::after {
+.divider_c2654d.isUnread_c2654d .unreadPill_c2654d::after {
   content: "Unread messages";
   font-size: 12px;
   color: #54a9eb;
