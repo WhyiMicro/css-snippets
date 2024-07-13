@@ -1,20 +1,28 @@
 .message_d5deea .edited_f9f2ca {
-  color: var(--text-muted);
-  font-size: 0;
+    color: var(--text-muted);
+    font-size: 0;
 }
+
 .message_d5deea:not(:hover) .edited_f9f2ca::before {
-  content: " (✎)";
-  font-size: 0.75rem;
-  font-weight: 400;
-  line-height: 1;
+    content: " (✎)                                 ";
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1;
 }
-.message_d5deea:hover
-  .timestamp_f9f2ca:not(
-    .timestampInline_f9f2ca,
-    .timestampVisibleOnHover_f9f2ca
-  )
-  time::before {
-  content: " (" attr(aria-label) ")";
-  text-transform: lowercase;
-  transition: 0.3s ease;
+
+.message_d5deea:hover .timestamp_f9f2ca:not(.timestampInline_f9f2ca, .timestampVisibleOnHover_f9f2ca) time::before {
+    content: " (" attr(aria-label) ")";
+    text-transform: lowercase;
+    transition: 0.3s ease;
+    opacity: 0; /* Initial opacity for animation */
+    animation: fadeIn 0.3s forwards; /* Apply animation */
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
