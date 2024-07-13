@@ -10,7 +10,7 @@
 }
 
 /* Normalize the Hide member list button color */
-.icon_e44302 {
+.icon_fc4f04 {
     color: var(--interactive-normal) !important;
 }
 
@@ -20,7 +20,7 @@
 }
 
 /* Remove facetime button */
-.iconWrapper_e44302:has(path[d^="M4 4a3 3 0 0 0-3"]){
+.iconWrapper_fc4f04:has(path[d^="M4 4a3 3 0 0 0-3"]){
   display: none;
 }
 
