@@ -13,6 +13,11 @@ To install this snippet, simply copy the line bellow into your custom css file:
 <details>
 <summary>Changelog</summary>
 
+## 1.1.0
+
+- Fixed for new update
+  - Note: It removes the app button, cause I deemed it useless
+
 ## 1.0.0
 
 - Moved from old repo to new one
