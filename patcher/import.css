@@ -15,7 +15,7 @@
 }
 
 /* Fix Insert Timeline plugin's icon not being aligned with ConsistenChatbar css */
-.sansAttachButton_d0696b > div[style*='margin-top: 10px'] {
+.sansAttachButton_bdf0de > div[style*='margin-top: 10px'] {
     margin: auto !important;
 }
 
@@ -48,7 +48,7 @@
 }
 
 /* Remove flipping of camera on preview of self, to match what others see */
-.mirror_eb1d8c {
+.mirror_a5989d {
   transform: unset;
 }
 
