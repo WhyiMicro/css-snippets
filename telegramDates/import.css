@@ -53,7 +53,7 @@
 .divider_c2654d.isUnread_c2654d .unreadPill_c2654d::after {
   content: "Unread messages";
   font-size: 12px;
-  color: #5865f2;
+  color: #54a9eb;
   font-weight: 300;
 }
 .scroller_e2e187::-webkit-scrollbar {
