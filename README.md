@@ -4,7 +4,7 @@ A set of snippets aimed to enhance the Discord client. Some of them are for gene
 
 ## Tools
 
-[Home page](https://modworks.tf/css-snippets/) <br>
+[Home page](https://whyimicro.github.io/css-snippets/) <br>
 [Class updater](https://syndishanx.github.io/Website/Update_Classes.html)
 
 ## My settings
@@ -12,7 +12,7 @@ A set of snippets aimed to enhance the Discord client. Some of them are for gene
 This import is the snippets that I use myself.
 
 ```css
-@import url(//modworks.tf/css-snippets/import.css);
+@import url(//whyimicro.github.io/css-snippets/import.css);
 ```
 
 ## My settings (Compact mode)
@@ -20,5 +20,5 @@ This import is the snippets that I use myself.
 This import is almost the same as the one above, but without 2 snippets that ruin the compact experience.
 
 ```css
-@import url(//modworks.tf/css-snippets/compactImport.css);
+@import url(//whyimicro.github.io/css-snippets/compactImport.css);
 ```

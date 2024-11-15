@@ -7,7 +7,7 @@ Changes the minimize, fullscreen/windowed and close window buttons into colored 
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/macOSButtons/import.css);
+@import url(//whyimicro.github.io/css-snippets/macOSButtons/import.css);
 ```
 
 ## Preview

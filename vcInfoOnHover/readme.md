@@ -7,7 +7,7 @@ This will hide the little box containing info about the call, such as connection
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/vcInfoOnHover/import.css);
+@import url(//whyimicro.github.io/css-snippets/vcInfoOnHover/import.css);
 ```
 
 ## Preview

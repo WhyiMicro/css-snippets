@@ -7,7 +7,7 @@ Puts the Betterdiscord settings section on top of the settings menu.
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/bdSettingsOnTop/import.css);
+@import url(//whyimicro.github.io/css-snippets/bdSettingsOnTop/import.css);
 ```
 
 ## Preview

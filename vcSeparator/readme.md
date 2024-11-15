@@ -7,7 +7,7 @@ Puts a line that wraps the people inside a voice chat into it. It won't display 
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/vcSeparator/import.css);
+@import url(//whyimicro.github.io/css-snippets/vcSeparator/import.css);
 ```
 
 ## Preview

@@ -7,7 +7,7 @@ Colors the background of roles with a more transparent color of the role itself.
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/colorizedRoles/import.css);
+@import url(//whyimicro.github.io/css-snippets/colorizedRoles/import.css);
 ```
 
 ## Preview

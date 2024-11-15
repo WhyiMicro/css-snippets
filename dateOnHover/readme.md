@@ -7,7 +7,7 @@ This will hide all the dates from messages until the message is hovered.
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/dateOnHover/import.css);
+@import url(//whyimicro.github.io/css-snippets/dateOnHover/import.css);
 ```
 
 ## Preview

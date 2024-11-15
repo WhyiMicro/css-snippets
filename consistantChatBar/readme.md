@@ -7,7 +7,7 @@ Makes the chat input field consistent with the client.
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/consistantChatBar/import.css);
+@import url(//whyimicro.github.io/css-snippets/consistantChatBar/import.css);
 ```
 
 ## Preview

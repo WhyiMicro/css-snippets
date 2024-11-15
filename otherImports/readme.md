@@ -8,7 +8,7 @@ Find the snippet(s) you want from the previews and copy the line bellow the imag
 If you really like every single one, and would like a simple line to install them **all**, you can copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/otherImports/import.css);
+@import url(//whyimicro.github.io/css-snippets/otherImports/import.css);
 ```
 
 ## Previews

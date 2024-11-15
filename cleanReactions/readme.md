@@ -7,7 +7,7 @@ Removes the "1" next to reactions & super reactions (Will only show numbers next
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/cleanReactions/import.css);
+@import url(//whyimicro.github.io/css-snippets/cleanReactions/import.css);
 ```
 
 ## Preview

@@ -7,7 +7,7 @@ Instead of showing that a message is edited, it will add additional information 
 To install this snippet, simply copy the line bellow into your custom css file:
 
 ```css
-@import url(//modworks.tf/css-snippets/editedWhen/import.css);
+@import url(//whyimicro.github.io/css-snippets/editedWhen/import.css);
 ```
 
 ## Preview
