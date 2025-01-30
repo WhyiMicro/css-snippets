@@ -34,16 +34,16 @@ button[aria-label="Open sticker picker"] {
 }
 
 /* Scrollbar in message section */
-.scroller_e2e187::-webkit-scrollbar {
+.scroller__36d07::-webkit-scrollbar {
   display: none;
 }
 
 /* Scrollbar on channel list */
-.scroller_c43953::-webkit-scrollbar {
+.scroller__629e4::-webkit-scrollbar {
   display: none;
 }
 
 /* margin fix */
-.scroller_c43953 {
+.scroller__629e4 {
   margin-right: 8px;
 }
