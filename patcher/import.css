@@ -1,54 +1,54 @@
 /* remove weird fade box in message bar */
-.theme-dark .form_a7d72e:before, .theme-dark .form_a7d72e:after {
+.theme-dark .form_f75fb0:before, .theme-dark .form_f75fb0:after {
   display: none;
 }
 
 /* Fix gap between gif text and next msg */
-.altText_cf58b5 {
+.altText__0f481 {
   margin: .25rem 0 -0.15rem;
   line-height: 17px;
 }
 
 /* Normalize the Hide member list button color */
-.icon_fc4f04 {
+.icon__9293f {
     color: var(--interactive-normal) !important;
 }
 
 /* Fix Insert Timeline plugin's icon not being aligned with ConsistenChatbar css */
-.sansAttachButton_bdf0de > div[style*='margin-top: 10px'] {
+.sansAttachButton__74017 > div[style*='margin-top: 10px'] {
     margin: auto !important;
 }
 
 /* Remove facetime button */
-.iconWrapper_fc4f04:has(path[d^="M4 4a3 3 0 0 0-3"]){
+.iconWrapper__9293f:has(path[d^="M4 4a3 3 0 0 0-3"]){
   display: none;
 }
 
 /* Fix mute button being white by default */
-.colorable_ef18ee.primaryDark_ef18ee[aria-label="Turn On Microphone"], 
-.colorable_ef18ee.primaryDark_ef18ee[aria-label="Turn On Microphone"] .centerIcon_ef18ee,
-.controlButton_b6e2f9:has(.colorable_ef18ee.primaryDark_ef18ee[aria-label="Turn On Microphone"]) .contextMenuNub_ef18ee {
+.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"], 
+.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"] .centerIcon_f1ceac,
+.controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .contextMenuNub_f1ceac {
   color: var(--primary-860);
 }
 
-.controlButton_b6e2f9:has(.colorable_ef18ee.primaryDark_ef18ee[aria-label="Turn On Microphone"]) .contextMenuNub_ef18ee,
-.controlButton_b6e2f9:has(.colorable_ef18ee.primaryDark_ef18ee[aria-label="Turn On Microphone"]) .colorable_ef18ee.primaryDark_ef18ee[aria-label="Turn On Microphone"] {
+.controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .contextMenuNub_f1ceac,
+.controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"] {
   background: white;
 }
 
-.colorable_ef18ee.white_ef18ee[aria-label="Turn Off Microphone"], 
-.colorable_ef18ee.white_ef18ee[aria-label="Turn Off Microphone"] .centerIcon_ef18ee,
-.controlButton_b6e2f9:has(.colorable_ef18ee.white_ef18ee[aria-label="Turn Off Microphone"]) .contextMenuNub_ef18ee {
+.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"], 
+.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"] .centerIcon_f1ceac,
+.controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .contextMenuNub_f1ceac {
   color:  white;
 }
 
-.controlButton_b6e2f9:has(.colorable_ef18ee.white_ef18ee[aria-label="Turn Off Microphone"]) .contextMenuNub_ef18ee,
-.controlButton_b6e2f9:has(.colorable_ef18ee.white_ef18ee[aria-label="Turn Off Microphone"]) .colorable_ef18ee.white_ef18ee[aria-label="Turn Off Microphone"] {
+.controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .contextMenuNub_f1ceac,
+.controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"] {
   background: var(--primary-630);
 }
 
 /* Remove flipping of camera on preview of self, to match what others see */
-.mirror_a5989d {
+.mirror__48b20 {
   transform: unset;
 }
 
