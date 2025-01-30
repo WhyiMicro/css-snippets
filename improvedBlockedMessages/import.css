@@ -1,58 +1,58 @@
-.scrollerInner_e2e187
-  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
-  > .wrapper_f9f2ca {
+.scrollerInner__36d07
+  > .groupStart__5126c:not(.backgroundFlash__5126c)
+  > .wrapper_c19a55 {
   padding: 0 0 0 16px;
 }
-.scrollerInner_e2e187
-  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
-  > .wrapper_f9f2ca.compact_f9f2ca {
+.scrollerInner__36d07
+  > .groupStart__5126c:not(.backgroundFlash__5126c)
+  > .wrapper_c19a55.compact_c19a55 {
   padding: 0 0 0 108px;
 }
-.scrollerInner_e2e187 > .groupStart_d5deea:not(.backgroundFlash_d5deea) {
+.scrollerInner__36d07 > .groupStart__5126c:not(.backgroundFlash__5126c) {
   margin: 0;
 }
-.scrollerInner_e2e187
-  > .groupStart_d5deea.expanded_c09d0f:not(.backgroundFlash_d5deea) {
+.scrollerInner__36d07
+  > .groupStart__5126c.expanded__7a70a:not(.backgroundFlash__5126c) {
   background-color: var(--info-danger-background);
 }
-.scrollerInner_e2e187
-  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
-  .messageListItem_d5deea
-  .groupStart_d5deea,
-.scrollerInner_e2e187
-  > .groupStart_d5deea:not(.backgroundFlash_d5deea, .expanded_c09d0f)
-  + .messageListItem_d5deea
-  .groupStart_d5deea {
+.scrollerInner__36d07
+  > .groupStart__5126c:not(.backgroundFlash__5126c)
+  .messageListItem__5126c
+  .groupStart__5126c,
+.scrollerInner__36d07
+  > .groupStart__5126c:not(.backgroundFlash__5126c, .expanded__7a70a)
+  + .messageListItem__5126c
+  .groupStart__5126c {
   margin-top: 0;
 }
-.scrollerInner_e2e187
-  > .groupStart_d5deea:not(.backgroundFlash_d5deea)
-  .messageListItem_d5deea {
+.scrollerInner__36d07
+  > .groupStart__5126c:not(.backgroundFlash__5126c)
+  .messageListItem__5126c {
   opacity: 0.5;
 }
-.blockedSystemMessage_c09d0f .iconContainer_e62b38 {
+.blockedSystemMessage__7a70a .iconContainer__235ca {
   display: none;
 }
-.blockedMessageText_c09d0f {
+.blockedMessageText__7a70a {
   position: relative;
   font-size: 12px;
   line-height: 16px;
   color: var(--interactive-muted);
 }
-.blockedMessageText_c09d0f:hover {
+.blockedMessageText__7a70a:hover {
   text-decoration: underline;
 }
-.blockedMessageText_c09d0f:hover,
-.groupStart_d5deea.expanded_c09d0f .blockedMessageText_c09d0f {
+.blockedMessageText__7a70a:hover,
+.groupStart__5126c.expanded__7a70a .blockedMessageText__7a70a {
   color: var(--info-danger-foreground);
 }
-.blockedAction_c09d0f {
+.blockedAction__7a70a {
   position: absolute;
   inset: 0;
   width: 100%;
   opacity: 0;
 }
-.blockedMessageText_c09d0f:after {
+.blockedMessageText__7a70a:after {
   content: "";
   position: absolute;
   right: 0;
