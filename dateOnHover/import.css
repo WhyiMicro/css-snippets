@@ -1,10 +1,10 @@
-.message_d5deea .header_f9f2ca > .timestamp_f9f2ca {
+.message__5126c .header_c19a55 > .timestamp_c19a55 {
   opacity: 0;
   transition: 0.3s ease;
 }
 .mouse-mode.full-motion
-  .message_d5deea:hover
-  .header_f9f2ca
-  > .timestamp_f9f2ca {
+  .message__5126c:hover
+  .header_c19a55
+  > .timestamp_c19a55 {
   opacity: 1;
 }
