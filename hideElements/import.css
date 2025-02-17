@@ -33,6 +33,11 @@ button[aria-label="Open sticker picker"] {
   display: none;
 }
 
+/* Command button in bot dms */
+.entryPointButtonContainer_f75fb0 {
+  display: none;
+}
+
 /* Scrollbar in message section */
 .scroller__36d07::-webkit-scrollbar {
   display: none;
