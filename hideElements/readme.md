@@ -10,6 +10,7 @@ List of hidden elements:
 - Nitro badge on banner
 - Gift button
 - Sticker button
+- Command button in bot dms
 - Scrollbar in message section
 - Scrollbar in channel section
   (👈 It also adds a margin fix for this)
