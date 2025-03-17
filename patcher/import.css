@@ -24,7 +24,7 @@
   display: none;
 }
 
-/* Fix mute button being white by default */
+/* Fix mute button being white by default (doesn't make a change on new UI update)
 .colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"], 
 .colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"] .centerIcon_f1ceac,
 .controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .contextMenuNub_f1ceac {
@@ -45,7 +45,7 @@
 .controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .contextMenuNub_f1ceac,
 .controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"] {
   background: var(--primary-630);
-}
+}*/
 
 /* Remove flipping of camera on preview of self, to match what others see */
 .mirror__48b20 {
