@@ -1,3 +1,6 @@
+> [!NOTE]  
+> So Discord just updated their UI, and rather than spending a lot of time reverting everything with code, I think I'll just stick with the new UI and let it grow on me a little before making any new changes.
+
 # Discord css-snippets
 
 A set of snippets aimed to enhance the Discord client. Some of them are for general use, but others are more personalized to me. Check out each folder for more info about the snippet.
