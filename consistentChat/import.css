@@ -1,0 +1,27 @@
+.wrapper__44df5 {
+  border: 0;
+  border-top: 1px solid var(--border-subtle);
+  border-radius: 0;
+  margin: 0;
+}
+.form_f75fb0 {
+  padding: 0;
+}
+.channelTextArea_f75fb0 {
+  margin-bottom: 0;
+  border: 0;
+  border-top: 1px solid var(--border-faint);
+  border-radius: 0;
+}
+.buttons__74017 [aria-label="Send a gift"] {
+  display: none;
+}
+.buttons__74017 [aria-label="Open sticker picker"] {
+  display: none;
+}
+.buttons__74017 [aria-label="Apps"] {
+  display: none;
+}
+.buttons__74017 {
+  gap: 0;
+}
