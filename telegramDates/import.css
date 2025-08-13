@@ -46,7 +46,7 @@
   font-size: 0px;
   text-transform: unset;
   color: var(--divider-color);
-  background: var(--background-secondary);
+  background: #2b2d31;
   padding: 12px 0;
   width: 100%;
 }
