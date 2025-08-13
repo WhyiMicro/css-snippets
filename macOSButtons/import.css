@@ -1,34 +1,58 @@
-.platform-win .typeWindows__421ed .winButton__421ed {
+/* Hide SVG icons in buttons */
+.winButton_c38106 svg {
+  display: none !important;
+}
+
+/* === Anchor window buttons to always-visible bar === */
+.withFrame-2dL45i .winButtons_c38106 {
+  position: absolute !important;
+  top: 12px !important;
+  right: 12px !important; /* adjust for macOS-style */
+  left: 60px !important; /* shifted to avoid DevTools icon (~36–48px wide) */
+  height: 36px;
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+  z-index: 9999;
+}
+
+
+/* === macOS button style ===*/
+.winButton_c38106 {
   width: 12px;
   height: 12px;
-  margin-right: 8px;
-  margin-top: 5px;
-  border-radius: 15px;
-  background-color: var(--background-primary);
-  background-size: 0;
+  border-radius: 9999px !important; /* force circle */
+  margin-left: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
   -webkit-app-region: no-drag;
 }
-.platform-win .typeWindows__421ed .winButton__421ed svg {
-  display: none;
+/* Minimize */
+.winButtonMinMax_c38106[aria-label="Minimize"],
+.winButtonMinMax_c38106[aria-label="Minimise"] {
+  background-color: #FFBD44;
 }
-.platform-win.app-focused .typeWindows__421ed:hover div.winButton__421ed {
-  background-position: center;
-  background-size: 100%;
-  background-repeat: no-repeat;
+
+/* Maximize */
+.winButtonMinMax_c38106[aria-label="Maximize"],
+.winButtonMinMax_c38106[aria-label="Maximise"] {
+  background-color: #00CA4E;
 }
-.platform-win.app-focused .typeWindows__421ed .winButtonClose__421ed {
-  background-color: #ff5c57;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMjkyODkgNkwyLjgxODAxIDMuNTI1MTNMMy41MjUxMiAyLjgxODAyTDUuOTk5OTkgNS4yOTI4OUw4LjQ3NDg3IDIuODE4MDJMOS4xODE5NyAzLjUyNTEzTDYuNzA3MSA2TDkuMTgxOTcgOC40NzQ4N0w4LjQ3NDg3IDkuMTgxOThMNS45OTk5OSA2LjcwNzExTDMuNTI1MTIgOS4xODE5OEwyLjgxODAxIDguNDc0ODdMNS4yOTI4OSA2WiIgZmlsbD0iI0EyMDAwOCIvPgo8L3N2Zz4=);
+.winButtonClose_c38106 {
+  background-color: #FF605C;
+  margin-right: 12px;
 }
-.platform-win.app-focused
-  .typeWindows__421ed
-  .winButtonMinMax__421ed:nth-child(2n) {
-  background-color: #fdbd3d;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDUuMzk5OTlIMlY2LjU5OTk5SDEwVjUuMzk5OTlaIiBmaWxsPSIjQjM3MTFBIi8+Cjwvc3ZnPg==);
+
+.winButton_c38106:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
 }
-.platform-win.app-focused
-  .typeWindows__421ed
-  .winButtonMinMax__421ed:nth-child(3n) {
-  background-color: #26c84b;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);
+
+/* === Make title bar draggable, except buttons === */
+.appMount-3lHmkl,
+.withFrame-2dL45i {
+  -webkit-app-region: drag;
+}
+.winButton_c38106 {
+  -webkit-app-region: no-drag;
 }
