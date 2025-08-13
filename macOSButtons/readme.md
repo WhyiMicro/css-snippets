@@ -16,7 +16,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 
 ### Credit
 
-Couldn't find the original creator
+@caff3in3add1ctz
 
 <details>
 <summary>Changelog</summary>
