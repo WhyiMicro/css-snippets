@@ -1,12 +1,12 @@
-.closedFolderIconWrapper__48112 {
+.folderPreview__48112 {
   display: none;
 }
-.folderIconWrapper__48112:not([style=""])::before {
+.folderPreviewWrapper__48112:not([style=""])::before {
   position: absolute;
   content: "";
   width: 18px;
   height: 18px;
-  top: 0;
+  top: 50px;
   left: 0;
   right: 0;
   bottom: 0;
