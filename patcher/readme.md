@@ -18,7 +18,6 @@ Before: <br>
 ![image](<https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(0).png>)
 <br> After: <br>
 ![image](<https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/patcher3(1).png>) <br>
-![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/muteButtonFix.png)
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/mirrorFix.png)
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/Fix%20Mosaic%20Zoom%20Before.png)
 ![image](https://raw.githubusercontent.com/WhyiMicro/css-snippets/main/_previews/patcher/Fix%20Mosaic%20Zoom%20After.png)
@@ -33,6 +32,10 @@ Before: <br>
 
 <details>
 <summary>Changelog</summary>
+
+## 1.3
+
+- Cleaned up code and updated relevant code
 
 ## 1.2
 
