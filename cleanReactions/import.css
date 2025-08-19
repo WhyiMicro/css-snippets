@@ -1,2 +1,42 @@
-.reaction__23977:has(.reactionInner__23977[aria-label*="1 reaction"], 
-.reactionInner__23977[aria-label*="1 super reaction"]) .reactionCount__23977 {display: none;}
+.reaction__23977:has(
+    .reactionInner__23977[aria-label*="1 reaction"],
+    .reactionInner__23977[aria-label*="1 super reaction"]
+  )
+  .reactionCount__23977 {
+  display: none;
+}
+.reaction__23977:has(
+    .reactionInner__23977[aria-label*="11 reaction"],
+    .reactionInner__23977[aria-label*="11 super reaction"]
+  )
+  .reactionCount__23977 {
+  display: block;
+}
+.reaction__23977:has(
+    .reactionInner__23977[aria-label*="111 reaction"],
+    .reactionInner__23977[aria-label*="111 super reaction"]
+  )
+  .reactionCount__23977 {
+  display: block;
+}
+.reaction__23977:has(
+    .reactionInner__23977[aria-label*="1111 reaction"],
+    .reactionInner__23977[aria-label*="1111 super reaction"]
+  )
+  .reactionCount__23977 {
+  display: block;
+}
+.reaction__23977:has(
+    .reactionInner__23977[aria-label*="1111 reaction"],
+    .reactionInner__23977[aria-label*="1111 super reaction"]
+  )
+  .reactionCount__23977 {
+  display: block;
+}
+.reaction__23977:has(
+    .reactionInner__23977[aria-label*="11111 reaction"],
+    .reactionInner__23977[aria-label*="11111 super reaction"]
+  )
+  .reactionCount__23977 {
+  display: block;
+}
