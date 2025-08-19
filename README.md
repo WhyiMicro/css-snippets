@@ -1,5 +1,5 @@
 > [!NOTE]  
-> So Discord just updated their UI, and rather than spending a lot of time reverting everything with code, I think I'll just stick with the new UI and let it grow on me a little before making any new changes.
+> Due to Discords UI redesign not to long ago, all of the snippets broke. So import the individual snippets and check if they work on their respective readme file
 
 # Discord css-snippets
 
