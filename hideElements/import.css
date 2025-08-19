@@ -18,16 +18,6 @@
   display: none;
 }
 
-/* Gift button */
-button[aria-label="Send a gift"] {
-  display: none;
-}
-
-/* Sticker button */
-button[aria-label="Open sticker picker"] {
-  display: none;
-}
-
 /* Command button in bot dms */
 .entryPointButtonContainer_f75fb0 {
   display: none;
