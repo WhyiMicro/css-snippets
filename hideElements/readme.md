@@ -7,9 +7,6 @@ List of hidden elements:
 - Discord game library
 - Notification settings button
 - Help button
-- Gift button
-- Sticker button
-- Command button in bot dms
 
 ## Installation
 
