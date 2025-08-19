@@ -1,11 +1,11 @@
-.recentMentionsPopout__95796 .messages__1ccd1>button:last-of-type {
-    margin-left:auto;
+.recentMentionsPopout__95796 .messages__1ccd1 > button:last-of-type {
+  margin-left: auto;
 }
-.containerDefault_c69b6d .list_c3cd7d.list__07f91{
-    border-left: 1px solid var(--background-modifier-accent);
-    border-bottom: 1px solid var(--background-modifier-accent);
-    border-bottom-left-radius: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    margin-left: 24px;
+.containerDefault_c69b6d .list_c3cd7d.list__07f91 {
+  border-left: 1px solid #3b3d44;
+  border-bottom: 1px solid #3b3d44;
+  border-bottom-left-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 24px;
 }
