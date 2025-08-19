@@ -7,13 +7,9 @@ List of hidden elements:
 - Discord game library
 - Notification settings button
 - Help button
-- Nitro badge on banner
 - Gift button
 - Sticker button
 - Command button in bot dms
-- Scrollbar in message section
-- Scrollbar in channel section
-  (👈 It also adds a margin fix for this)
 
 ## Installation
 
@@ -36,6 +32,10 @@ After:
 
 <details>
 <summary>Changelog</summary>
+
+## 1.1.0
+
+- Removed irelevant stuff with new UI rework
 
 ## 1.0.0
 
