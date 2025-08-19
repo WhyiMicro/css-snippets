@@ -1,6 +1,6 @@
 # Hide elements
 
-Hide's a lot of elements from the discord client. Many of which I deem unnecessary or annoying. <br>
+Hide's a some elements from the discord client. Many of which I deem unnecessary or annoying. <br>
 List of hidden elements:
 
 - Nitro store button
