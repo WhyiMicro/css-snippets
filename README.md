@@ -8,6 +8,7 @@ A set of snippets aimed to enhance the Discord client. Some of them are for gene
 ## Tools
 [Better Discord](https://betterdiscord.app/) <br>
 [Vencord](https://vencord.dev/download/) <br>
+[OpenAsar](https://openasar.dev/) <br>
 [Class updater](https://syndishanx.github.io/Website/Update_Classes.html)
 
 ## My settings
