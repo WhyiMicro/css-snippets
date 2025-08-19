@@ -1,51 +1,18 @@
-/* remove weird fade box in message bar */
-.theme-dark .form_f75fb0:before, .theme-dark .form_f75fb0:after {
-  display: none;
-}
-
 /* Fix gap between gif text and next msg */
 .altText__0f481 {
-  margin: .25rem 0 -0.15rem;
+  margin: 0.25rem 0 -0.15rem;
   line-height: 17px;
 }
 
 /* Normalize the Hide member list button color */
 .icon__9293f {
-    color: var(--interactive-normal) !important;
-}
-
-/* Fix Insert Timeline plugin's icon not being aligned with ConsistenChatbar css */
-.sansAttachButton__74017 > div[style*='margin-top: 10px'] {
-    margin: auto !important;
+  color: var(--interactive-normal) !important;
 }
 
 /* Remove facetime button */
-.iconWrapper__9293f:has(path[d^="M4 4a3 3 0 0 0-3"]){
+.iconWrapper__9293f:has(path[d^="M4 4a3 3 0 0 0-3"]) {
   display: none;
 }
-
-/* Fix mute button being white by default (doesn't make a change on new UI update)
-.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"], 
-.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"] .centerIcon_f1ceac,
-.controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .contextMenuNub_f1ceac {
-  color: var(--primary-860);
-}
-
-.controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .contextMenuNub_f1ceac,
-.controlButton__1405b:has(.colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"]) .colorable_f1ceac.primaryDark_f1ceac[aria-label="Turn On Microphone"] {
-  background: white;
-}
-
-.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"], 
-.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"] .centerIcon_f1ceac,
-.controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .contextMenuNub_f1ceac {
-  color:  white;
-}
-
-.controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .contextMenuNub_f1ceac,
-.controlButton__1405b:has(.colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"]) .colorable_f1ceac.white_f1ceac[aria-label="Turn Off Microphone"] {
-  background: var(--primary-630);
-}*/
 
 /* Remove flipping of camera on preview of self, to match what others see */
 .mirror__48b20 {
@@ -53,4 +20,6 @@
 }
 
 /* Fix Mosaic Zoom */
-[class^="imageWrapper_"] img[class^="lazyImg"] { object-fit: contain !important; }
+[class^="imageWrapper_"] img[class^="lazyImg"] {
+  object-fit: contain !important;
+}
