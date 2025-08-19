@@ -1,4 +1,4 @@
-# Simple voice chat seperator
+# Simple voice chat seperator (Not updated)
 
 Puts a line that wraps the people inside a voice chat into it. It won't display whenever there's no one in call.
 
