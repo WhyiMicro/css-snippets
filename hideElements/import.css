@@ -18,11 +18,6 @@
   display: none;
 }
 
-/* Nitro badge on banner */
-.premiumIconWrapper_c3e427 {
-  display: none;
-}
-
 /* Gift button */
 button[aria-label="Send a gift"] {
   display: none;
@@ -36,19 +31,4 @@ button[aria-label="Open sticker picker"] {
 /* Command button in bot dms */
 .entryPointButtonContainer_f75fb0 {
   display: none;
-}
-
-/* Scrollbar in message section */
-.scroller__36d07::-webkit-scrollbar {
-  display: none;
-}
-
-/* Scrollbar on channel list */
-.scroller__629e4::-webkit-scrollbar {
-  display: none;
-}
-
-/* margin fix */
-.scroller__629e4 {
-  margin-right: 8px;
 }
