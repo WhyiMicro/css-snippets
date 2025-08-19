@@ -1,5 +1,0 @@
-[class*="side"]>:where(
-  [class*=bd-],
-  [class*=-tab]+[class*=separator]) {
-  order: -1;
-}
