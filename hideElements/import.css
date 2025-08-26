@@ -17,3 +17,8 @@
 [aria-label="Help"] {
   display: none;
 }
+
+/* Boost goal progress bar */
+div[id="channels"] > ul[class^="content"] div:has(div[class^="progress"]) {
+    display: none;
+}
