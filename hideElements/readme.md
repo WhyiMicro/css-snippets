@@ -7,6 +7,7 @@ List of hidden elements:
 - Discord game library
 - Notification settings button
 - Help button
+- Boost goal progress bar
 
 ## Installation
 
