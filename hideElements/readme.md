@@ -8,6 +8,7 @@ List of hidden elements:
 - Notification settings button
 - Help button
 - Boost goal progress bar
+- Activity at top of member list
 
 ## Installation
 
