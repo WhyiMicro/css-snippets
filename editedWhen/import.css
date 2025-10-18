@@ -1,3 +1,4 @@
+/* Broken, might come back to when I got time to fix
 .timestamp_c19a55:not(.timestampInline_c19a55, .timestampVisibleOnHover_c19a55) time::after {
     content: " (" attr(aria-label) ")";
     color: var(--text-muted);
@@ -9,3 +10,4 @@
 .edited_c19a55:not(.message-translate-indicator) {
     display: none;
 }
+*/
