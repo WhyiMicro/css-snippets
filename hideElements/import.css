@@ -29,3 +29,14 @@ h3[class*=membersGroup_]:has(svg) {
 
     display: none;
 }
+
+/* Newly added dropdown menu for mute and deafen */
+div[class^=micButtonParent__] {
+  button[role="switch"] {
+    border-radius: var(--radius-sm) !important;
+    
+    ~ button {
+      display: none;
+    }
+  }
+}
