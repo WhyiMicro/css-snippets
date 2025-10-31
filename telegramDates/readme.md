@@ -20,13 +20,13 @@ To install this snippet, simply copy the line bellow into your custom css file:
 
 ### Credit
 
-@imicro
+@claytontdm
 
 <details>
 <summary>Changelog</summary>
 
 ## 1.0.0
 
-- Moved from old repo to new one
+- New snippet with extra swag
 
 </details>
