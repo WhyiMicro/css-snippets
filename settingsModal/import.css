@@ -1,0 +1,20 @@
+[data-layer="USER_SETTINGS"].layer__960e4,
+[name="USER_SETTINGS"].layer__960e4 {
+  width: 60vw;
+  min-width: 1200px;
+  height: 75vh;
+  margin: auto;
+  border-radius: 10px;
+  border: rgba(255, 255, 255, 0.1) 2px solid;
+  padding: 0;
+
+  > .standardSidebarView__23e6b {
+    top: 0;
+  }
+}
+
+.layer__960e4.baseLayer__960e4.stop-animations {
+  opacity: 0.5 !important;
+  pointer-events: none;
+  transition: ease-in-out 0.25s;
+}
