@@ -23,10 +23,13 @@ div[id="channels"] > ul[class^="content"] div:has(div[class^="progress"]) {
     display: none;
 }
 
-/* Activity at top of member list */
-h3[class*=membersGroup_]:has(svg) {
-    & ~ div:not([class]) {display: none}
+/* Hide activity header */
+.visual-refresh .membersGroup_c8ffbb:has(.headerContainer__095fe) {
+    display: none;
+}
 
+/* Hide member's activities */
+.visual-refresh .container__0f2e8 {
     display: none;
 }
 
