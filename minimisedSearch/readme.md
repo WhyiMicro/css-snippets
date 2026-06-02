@@ -16,7 +16,7 @@ To install this snippet, simply copy the line bellow into your custom css file:
 
 ### Credit
 
-@riddim_glitch
+@eight_p
 
 <details>
 <summary>Changelog</summary>
