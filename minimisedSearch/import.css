@@ -1,36 +1,77 @@
-.upperContainer__9293f .toolbar__9293f .search__49676 {
-  /* Re-Iconify Search */
-  order: -1;
-  .searchBar__97492 {
-    /* Make the default state only show an icon that can be clicked. */
-    transition: all ease 0.3s;
-    width: 25px;
-    box-sizing: unset;
-    cursor: pointer;
-    background: none;
-    border: none;
-    padding: 0;
-    .icon__97492 {
-      height: 32px;
-      width: 32px;
-      scale: 1.2;
-      cursor: pointer;
-    }
+.title_f75fb0 .toolbar__9293f {
+  flex-shrink: 0;
+  max-width: 100%;
+}
+
+.search__49676 {
+  overflow: hidden;
+  margin: 0;
+  min-width: unset;
+  max-width: unset;
+  flex-basis: auto;
+}
+
+.searchBar_c322aa {
+  padding: 0;
+  transition: none !important;
+  --iconColorNormal: var(--icon-muted);
+  --iconColorHover: var(--icon-subtle);
+  --backgroundOpen: var(--background-gradient-low, var(--input-background-default));
+  --borderColorOpen: var(--input-border-default);
+}
+@keyframes expandSearchWidth {
+  from {
+    min-width: 32px;
   }
-  .focused__97492 .searchBar__97492,
-  .open__97492 .searchBar__97492 {
-    /* Expand the search bar when focused, and keep it expanded when text is entered. These classes make it really easy, thanks discord! */
-    width: 225px;
-    box-sizing: border-box;
-    cursor: text;
-    background: var(--background-gradient-low, var(--input-background));
-    border: 1px solid var(--input-border);
-    padding: 2px 0;
-    .icon__97492 {
-      height: 24px;
-      width: 24px;
-      scale: 1;
-      cursor: pointer;
-    }
+  to {
+    min-width: 244px;
   }
+}
+.searchBar_c322aa .iconLayout__0c4c4 {
+  height: 100%;
+  width: 30px;
+  min-width: 30px;
+  max-width: 30px;
+  margin: 0;
+  cursor: pointer;
+  --interactive-text-default: var(--iconColorNormal);
+}
+.searchBar_c322aa .iconLayout__0c4c4:hover .icon__0c4c4 {
+  color: var(--iconColorHover);
+}
+.searchBar_c322aa {
+  cursor: default;
+  width: 32px;
+  background: none;
+  border-color: transparent;
+}
+.searchBar_c322aa .DraftEditor-root {
+  padding: 0;
+}
+.searchBar_c322aa .icon__0c4c4 {
+  stroke: currentcolor;
+}
+
+.open_c322aa .searchBar_c322aa {
+  cursor: pointer;
+  width: auto;
+  animation: 0.12s ease-out normal forwards expandSearchWidth;
+  overflow: visible;
+  background: var(--backgroundOpen);
+  border-color: var(--borderColorOpen);
+}
+.open_c322aa .searchBar_c322aa:hover:not(:has(.DraftEditor-root:hover)) .icon__0c4c4 {
+  color: var(--iconColorHover);
+}
+.open_c322aa .DraftEditor-root {
+  height: unset;
+  cursor: text;
+  padding: 4px var(--space-4) 2px 6px !important;
+  margin-left: -2px;
+}
+.open_c322aa .iconLayout__0c4c4:not(.pointer__0c4c4) {
+  pointer-events: none;
+}
+.open_c322aa .icon__0c4c4 {
+  stroke: none;
 }
