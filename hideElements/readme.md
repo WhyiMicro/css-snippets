@@ -9,7 +9,8 @@ List of hidden elements:
 - Help button
 - Boost goal progress bar
 - Activity at top of member list
-- Newly added dropdown menu for mute and deafen
+- Dropwdown menu for mute and deafen
+- Completed Discord Quests
 
 ## Installation
 
