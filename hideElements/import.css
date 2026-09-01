@@ -33,7 +33,7 @@ div[id="channels"] > ul[class^="content"] div:has(div[class^="progress"]) {
     display: none;
 }
 
-/* Newly added dropdown menu for mute and deafen */
+/* dropdown menu for mute and deafen */
 div[class^=micButtonParent__] {
   button[role="switch"] {
     border-radius: var(--radius-sm) !important;
@@ -42,4 +42,9 @@ div[class^=micButtonParent__] {
       display: none;
     }
   }
+}
+
+/* Completed Discord Quests */
+.container__60f82 > div:not(:has(.expirationCopy_b5b7aa)) {
+    display: none;
 }
