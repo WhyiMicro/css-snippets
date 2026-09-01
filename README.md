@@ -15,12 +15,3 @@ These imports are the snippets that I use myself.
 ```css
 @import url(//whyimicro.github.io/css-snippets/import.css);
 ```
-
-## Compact mode
-
-> [!NOTE]
-> This import is almost the same as the one above, but without 2 snippets that ruin the compact experience.
-
-```css
-@import url(//whyimicro.github.io/css-snippets/compactImport.css);
-```
