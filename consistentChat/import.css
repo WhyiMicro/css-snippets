@@ -1,3 +1,4 @@
+/* Chat */
 .wrapper__44df5 {
   border: 0;
   border-top: 1px solid var(--border-subtle);
@@ -32,4 +33,20 @@
 }
 .buttons__74017 [aria-label="Apps"] {
   display: none;
+}
+
+/* Status module */
+.panels__5e434 {
+    bottom: 0;
+    width: 100%;
+    inset-inline-start: 0;
+}
+
+.container__37e49 {
+    height: 54px;
+    border-radius: 0;
+}
+
+.activityPanel__5e434 {
+    z-index: 1;
 }
