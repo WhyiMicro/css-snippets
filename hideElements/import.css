@@ -48,3 +48,11 @@ div[class^=micButtonParent__] {
 .container__60f82 > div:not(:has(.expirationCopy_b5b7aa)) {
     display: none;
 }
+
+/* Discord server tags */
+.clanTagChiplet_c19a55,
+.guildTagContainer__63ed3,
+.username__5d473 .clanTag__5d473,
+.voiceUser__07f91 .clanTag__07f91,
+.name__20a53 .clanTag__972a0
+{ display: none !important }
