@@ -11,6 +11,7 @@ List of hidden elements:
 - Activity at top of member list
 - Dropwdown menu for mute and deafen
 - Completed Discord Quests
+- Discord Server Tags
 
 ## Installation
 
